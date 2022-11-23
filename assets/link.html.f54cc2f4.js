@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ca285b74","path":"/link.html","title":"相关文档","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1646378575000,"contributors":[{"name":"iMaeGoo","email":"mail1st@qq.com","commits":10}]},"filePathRelative":"link.md"}');export{t as data};
